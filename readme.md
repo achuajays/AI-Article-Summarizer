@@ -1,6 +1,6 @@
 # Article Summarizer App
 
-This is a simple Streamlit app that uses Hugging Face's Transformers library to summarize long articles. The app provides an input section for users to enter their articles, and a 'Summarize' button that generates a summary of the article. The summary is generated using the 'Falconsai/text_summarization' model.
+This is a simple Streamlit app that uses Hugging Face's Transformers library to summarize long articles. The app provides an input section for users to enter their articles, and a 'Summarize' button that generates a summary of the article. The summary is generated using the  model.
 
 ## Usage
 
