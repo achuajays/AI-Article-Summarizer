@@ -4,7 +4,7 @@ This is a simple Streamlit app that uses Hugging Face's Transformers library to 
 
 ## Usage
 
-To use this app, simply clone the repository and run the `app.py` file. The app will automatically open in your web browser.
+To use this app, simply clone the repository and run the `streamlit run main.py` file. The app will automatically open in your web browser.
 
 ### Example Prompt
 
